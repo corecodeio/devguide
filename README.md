@@ -9,10 +9,10 @@
 ## Index
 
 1. [Introduction](#1-introduction)
-2. [How to use this guide](#3-how-to-use-this-guide)
-3. [Technologies](#2-technologies)
-4. [Schedule](#3-schedule)
-5. [Help](#4-help)
+2. [How to use this guide](#2-how-to-use-this-guide)
+3. [Technologies](#3-technologies)
+4. [Schedule](#4-schedule)
+5. [Help](#5-help)
 ------
 
 ## 1. Introduction

@@ -1,28 +1,9 @@
-<style>
-
-/* Create a CSS class to style images to left-align, or "float left" */
-.leftAlign
-{
-    display:inline-block;
-    float:left;
-    margin-right:15px; 
-}
-
-/* Create a CSS class to style images to right-align, or "float right" */
-.rightAlign
-{
-    margin-left:15px;
-}
-
-</style> 
-
-
 <h1 align="center">Schedule</h1>
 <p align="center">This will be your schedule for the entire time. You could also find a Google Calendar with all the schedule sessions  <a href="https://calendar.google.com/calendar/u/1?cid=Y190aTllaXNuazExaGhsNXRrOHZvNHRkdGs3MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">here 📅</a>.</p>
 
 ------
 
-![alt text](../assets/schedule/1_schedule_2021.png "schedule 2021")
+![alt text](../assets/schedule/0_schedule_2021.png "schedule 2021")
 
 ------
  
