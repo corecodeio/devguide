@@ -3,10 +3,43 @@
 
 ------
 
-![alt text](../assets/schedule/0_schedule_2021.png "schedule 2021")
+# Week
+
+|               		|             Monday             	|              Tuesday             	|            Wednesday           	|            Thursday            	|       Friday      	|
+|:------------------	|:------------------------------:	|:--------------------------------:	|:------------------------------:	|:------------------------------:	|:-----------------:	|
+| **17:00 - 17:30** 	| Fundamentals/CS code Challenge 	|  Fundamentals/CS code Challenge  	| Fundamentals/CS code Challenge 	| Fundamentals/CS code Challenge 	|                   	|
+| **17:30 - 18:00** 	|          Lesson - Code         	|            Peer review           	|          Lesson - Code         	|           Peer review          	| Alone coding time 	|
+| **18:00 - 18:30** 	|          Lesson - Code         	| Network sessions / Core sessions 	|          Lesson - Code         	|          Lesson - Code         	| Alone coding time 	|
+| **18:30 - 19:00** 	|                                	| Network sessions / Core sessions 	|                                	|                                	|   Tech sessions   	|
+| **19:00 - 19:30** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   Tech sessions   	|
+| **19:30 - 20:00** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   1:1 Mentoring   	|
+| **20:00 - 20:30** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   1:1 Mentoring   	|
+| **20:30 - 21:00** 	|         Review/Standup         	|          Review/Standup          	|         Review/Standup         	|         Review/Standup         	|     Team lunch    	|
 
 ------
+
+<br>
+
+# Weekend
+
+|               		|     Saturday     	|
+|:-----------------:	|:----------------:	|
+| **09:00 - 09:30** 	|                  	|
+| **09:30 - 10:00** 	| Network sessions 	|
+| **10:00 - 10:30** 	| Network sessions 	|
+| **10:30 - 11:00** 	|   Tech session   	|
+| **11:00 - 11:30** 	|   Tech session   	|
+| **11:30 - 12:00** 	|   1:1 Mentoring  	|
+| **12:00 - 12:30** 	|   1:1 Mentoring  	|
+| **12:30 - 13:00** 	|    Team lunch    	|
+
+------
+
+### 📅 You could also find an image of the schedule [here](../assets/schedule/0_schedule_2021.png)
  
+---
+
+# Descriptions
 
 ## Fundamentals/CS Code Challange
 > You will be solving different challenges related to the technology in which you will be working
