@@ -7,14 +7,14 @@
 
 |               		|             Monday             	|              Tuesday             	|            Wednesday           	|            Thursday            	|       Friday      	|
 |:------------------	|:------------------------------:	|:--------------------------------:	|:------------------------------:	|:------------------------------:	|:-----------------:	|
-| **17:00 - 17:30** 	| [Fundamentals/CS Code Challenge](#fundamentalscs-code-challange) 	|  Fundamentals/CS Code Challenge  	| Fundamentals/CS Code Challenge 	| Fundamentals/CS Code Challenge 	|                   	|
-| **17:30 - 18:00** 	|          Lesson - Code         	|            Peer review           	|          Lesson - Code         	|           Peer review          	| Alone coding time 	|
-| **18:00 - 18:30** 	|          Lesson - Code         	| Network sessions / Core sessions 	|          Lesson - Code         	|          Lesson - Code         	| Alone coding time 	|
-| **18:30 - 19:00** 	|                                	| Network sessions / Core sessions 	|                                	|                                	|   Tech sessions   	|
-| **19:00 - 19:30** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   Tech sessions   	|
-| **19:30 - 20:00** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   1:1 Mentoring   	|
-| **20:00 - 20:30** 	|        Alone coding time       	|         Alone coding time        	|        Alone coding time       	|        Alone coding time       	|   1:1 Mentoring   	|
-| **20:30 - 21:00** 	|         Review/Standup         	|          Review/Standup          	|         Review/Standup         	|         Review/Standup         	|     Team lunch    	|
+| **17:00 - 17:30** 	| [Fundamentals/CS Code Challenge](#fundamentalscs-code-challange) 	|  [Fundamentals/CS Code Challenge](#fundamentalscs-code-challange)  	| [Fundamentals/CS Code Challenge](#fundamentalscs-code-challange) 	| [Fundamentals/CS Code Challenge](#fundamentalscs-code-challange) 	|                   	|
+| **17:30 - 18:00** 	|          [Lesson - Code](#lesson---code)         	|            [Peer review](#peer-review)           	|          [Lesson - Code](#lesson---code)         	|           [Peer review](#peer-review)          	| [Alone coding time](#alone-coding-time) 	|
+| **18:00 - 18:30** 	|          [Lesson - Code](#lesson---code)         	| [Network sessions / Core sessions](#network-sessions--core-sessions) 	|          [Lesson - Code](#lesson---code)         	|          [Lesson - Code](#lesson---code)         	| [Alone coding time](#alone-coding-time) 	|
+| **18:30 - 19:00** 	|                                	| [Network sessions / Core sessions](#network-sessions--core-sessions) 	|                                	|                                	|   [Test](#test)   	|
+| **19:00 - 19:30** 	|        [Alone coding time](#alone-coding-time)       	|         [Alone coding time](#alone-coding-time)        	|        [Alone coding time](#alone-coding-time)       	|        [Alone coding time](#alone-coding-time)       	|   [Test](#test)   	|
+| **19:30 - 20:00** 	|        [Alone coding time](#alone-coding-time)       	|         [Alone coding time](#alone-coding-time)        	|        [Alone coding time](#alone-coding-time)       	|        [Alone coding time](#alone-coding-time)       	|      	|
+| **20:00 - 20:30** 	|        [Alone coding time](#alone-coding-time)       	|         [Alone coding time](#alone-coding-time)        	|        [Alone coding time](#alone-coding-time)       	|        [Alone coding time](#alone-coding-time)       	|      	|
+| **20:30 - 21:00** 	|         [Review/Standup](#reviewstandup)         	|          [Review/Standup](#reviewstandup)          	|         [Review/Standup](#reviewstandup)         	|         [Review/Standup](#reviewstandup)         	|         	|
 
 ------
 
@@ -25,13 +25,13 @@
 |               		|     Saturday     	|
 |:-----------------:	|:----------------:	|
 | **09:00 - 09:30** 	|                  	|
-| **09:30 - 10:00** 	| Network sessions 	|
-| **10:00 - 10:30** 	| Network sessions 	|
-| **10:30 - 11:00** 	|   Tech session   	|
-| **11:00 - 11:30** 	|   Tech session   	|
-| **11:30 - 12:00** 	|   1:1 Mentoring  	|
-| **12:00 - 12:30** 	|   1:1 Mentoring  	|
-| **12:30 - 13:00** 	|    Team lunch    	|
+| **09:30 - 10:00** 	| [Network sessions / Core sessions](#network-sessions--core-sessions) 	|
+| **10:00 - 10:30** 	| [Network sessions / Core sessions](#network-sessions--core-sessions) 	|
+| **10:30 - 11:00** 	|   [Tech sessions](#tech-sessions)   	|
+| **11:00 - 11:30** 	|   [Tech sessions](#tech-sessions)   	|
+| **11:30 - 12:00** 	|   [1:1 Mentoring](#11-mentoring)  	|
+| **12:00 - 12:30** 	|   [1:1 Mentoring](#11-mentoring)  	|
+| **12:30 - 13:00** 	|    [Team lunch](#team-lunch)    	|
 
 ------
 
@@ -41,7 +41,7 @@
 
 # Descriptions
 
-## Fundamentals/CS Code Challange
+## Fundamentals/CS Code Challenge
 > You will be solving different challenges related to the technology in which you will be working
 
 ## Lesson - Code
@@ -56,13 +56,13 @@
 ## Peer review
 > You will come together in pairs and provide feedback to each other
 
-## Network session / Core session
+## Network sessions / Core sessions
 > You will be attending to different sessions about different technology themes
 
 ## Test
 > You will be resolving tests about different skills
 
-## Tech session
+## Tech sessions
 > You will have time to make a presentation on a topic of interest
 
 ## 1:1 Mentoring
