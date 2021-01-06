@@ -7,7 +7,7 @@
 
 |               		|             Monday             	|              Tuesday             	|            Wednesday           	|            Thursday            	|       Friday      	|
 |:------------------	|:------------------------------:	|:--------------------------------:	|:------------------------------:	|:------------------------------:	|:-----------------:	|
-| **17:00 - 17:30** 	| Fundamentals/CS code Challenge 	|  Fundamentals/CS code Challenge  	| Fundamentals/CS code Challenge 	| Fundamentals/CS code Challenge 	|                   	|
+| **17:00 - 17:30** 	| Fundamentals/CS Code Challenge 	|  Fundamentals/CS Code Challenge  	| Fundamentals/CS Code Challenge 	| Fundamentals/CS Code Challenge 	|                   	|
 | **17:30 - 18:00** 	|          Lesson - Code         	|            Peer review           	|          Lesson - Code         	|           Peer review          	| Alone coding time 	|
 | **18:00 - 18:30** 	|          Lesson - Code         	| Network sessions / Core sessions 	|          Lesson - Code         	|          Lesson - Code         	| Alone coding time 	|
 | **18:30 - 19:00** 	|                                	| Network sessions / Core sessions 	|                                	|                                	|   Tech sessions   	|
