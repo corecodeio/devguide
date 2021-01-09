@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://www.techopedia.com/definition/29569/front-end-developer" target="_blank">Front-End</a></h3>
 
 ## 1. Week goal 🏁
-<p>You app with style 😎🎨</p>
+<p>Your app with style 😎🎨</p>
 
 ## 2. Week challenges 💻
 1. [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
