@@ -1,4 +1,5 @@
 <h1 align="center">React - Week 3</h1>
+<h3 align="center"><a href="https://www.techopedia.com/definition/29569/front-end-developer" target="_blank">Front-End</a></h3>
 
 ## 1. Week goal 🏁
 <p>Have all the pages of the application navigable and connected, without styles, have a list of products (harcoded) and manage shopping cart with local storage</p>

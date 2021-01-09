@@ -1,4 +1,5 @@
 <h1 align="center">React - Week 2</h1>
+<h3 align="center"><a href="https://www.techopedia.com/definition/29569/front-end-developer" target="_blank">Front-End</a></h3>
 
 ## 1. Week goal 🏁
 <p>The goal for this week is for you to know react basics</p>

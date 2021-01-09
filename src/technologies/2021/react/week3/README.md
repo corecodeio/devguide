@@ -1,4 +1,5 @@
 <h1 align="center">React - Week 4</h1>
+<h3 align="center"><a href="https://www.techopedia.com/definition/29569/front-end-developer" target="_blank">Front-End</a></h3>
 
 ## 1. Week goal 🏁
 <p>Use <a href="https://swapi.dev/">swapi</a> to get products to list within the application, finish the basic checkout</p>

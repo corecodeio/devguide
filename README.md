@@ -12,7 +12,8 @@
 2. [How to use this guide](#2-how-to-use-this-guide)
 3. [Technologies](#3-technologies)
 4. [Schedule](#4-schedule)
-5. [Help](#5-help)
+5. [Recordings](#5-recordings)
+6. [Help](#6-help)
 ------
 
 ## 1. Introduction
@@ -39,8 +40,11 @@
 * Week 16 : [Google Cloud](src/technologies/2021/googleCloud/week1)
 * Week 17 : [Google Cloud](src/technologies/2021/googleCloud/week2)
 
-
 ## 4. Schedule
 You can find the actual schedule [here](src/schedule)
-## 5. Help
+
+## 5. Recordings
+Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/playlist?list=PL1EiCZMRNZ8-IYmao3LGN8P_20IQxrAEW)
+
+## 6. Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
