@@ -10,11 +10,11 @@
 | **17:00 - 17:30** 	| [CS Challenge](#cs-challenge) 	| [CS Challenge](#cs-challenge)  	| [CS Challenge](#cs-challenge) 	| [CS Challenge](#cs-challenge) 	|                   	|
 | **17:30 - 18:00** 	| [Code Session](#code-session)     | [Peer review](#peer-review)       | [Code Session](#code-session)     | [Peer review](#peer-review)       | [Code Time](#code-time) 	|
 | **18:00 - 18:30** 	| [Code Session](#code-session)     | [Core Session / Network Session](#core-session--network-session) 	    | [Code Session](#code-session)     | [Code Session](#code-session)         | [Code Time](#code-time) 	|
-| **18:30 - 19:00** 	|                                	| [Core Session / Network Session](#core-session--network-session) 	|                                	|                                	|   [Test Time!](#Test Time!)   	|
-| **19:00 - 19:30** 	| [Code Time](#code-time)       	| [Code Time](#code-time)        	| [Code Time](#code-time)       	|  [Code Time](#code-time)       	|   [Test Time!](#Test Time!)   	|
+| **18:30 - 19:00** 	|                                	| [Core Session / Network Session](#core-session--network-session) 	|                                	|                                	|   [Test Time!](#test-time)   	|
+| **19:00 - 19:30** 	| [Code Time](#code-time)       	| [Code Time](#code-time)        	| [Code Time](#code-time)       	|  [Code Time](#code-time)       	|   [Test Time!](#test-time)   	|
 | **19:30 - 20:00** 	| [Code Time](#code-time)       	| [Code Time](#code-time)        	| [Code Time](#code-time)       	|  [Code Time](#code-time)       	|      	|
 | **20:00 - 20:30** 	| [Code Time](#code-time)       	| [Code Time](#code-time)        	| [Code Time](#code-time)       	|  [Code Time](#code-time)       	|      	|
-| **20:30 - 21:00** 	| [Review / Stand up](#reviewstand-up)         	|          [Review / Stand up](#reviewstand-up)          	|  [Review / Stand up](#reviewstand-up)       	|         [Review / Stand up](#reviewstand-up)         	|         	|
+| **20:30 - 21:00** 	| [Review / Stand up](#review--stand-up)         	|          [Review / Stand up](#review--stand-up)          	|  [Review / Stand up](#review--stand-up)       	|         [Review / Stand up](#review--stand-up)         	|         	|
 
 ------
 
@@ -29,9 +29,9 @@
 | **10:00 - 10:30** 	|   [Tech sessions](#tech-sessions) 	|
 | **10:30 - 11:00** 	|      	                                |
 | **11:00 - 11:30** 	|      	                                |
-| **11:30 - 12:00** 	|   [Review & Mentoring](#11-mentoring)  	|
-| **12:00 - 12:30** 	|   [Review & Mentoring](#11-mentoring)  	|
-| **12:30 - 13:00** 	|   [Monthly Social Dive](#team-lunch)    	|
+| **11:30 - 12:00** 	|   [Review & Mentoring](#review--mentoring)  	|
+| **12:00 - 12:30** 	|   [Review & Mentoring](#review--mentoring)  	|
+| **12:30 - 13:00** 	|   [Monthly Social Dive](#monthly-social-dive)    	|
 
 ------
 
