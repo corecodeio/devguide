@@ -15,3 +15,4 @@
 2. [Tick tac toe tutorial](https://reactjs.org/tutorial/tutorial.html)
 3. [Tick tac toe tutorial with hooks](https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/)
 4. [Hooks resources](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)
+5. [CV & LinkedIn Boost Guides](https://docs.google.com/document/d/1uYcqz_W7jwa3XQGCJ--dX6jwp2AysZvU2pPxD0vNLYU/edit?usp=sharing)
