@@ -44,7 +44,7 @@
 You can find the actual schedule [here](src/schedule)
 
 ## 5. Recordings
-Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/playlist?list=PL1EiCZMRNZ8-IYmao3LGN8P_20IQxrAEW) Sessions are uploded by 9pm.
+Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/playlist?list=PL1EiCZMRNZ8-IYmao3LGN8P_20IQxrAEW). ###Sessions are uploaded by 9pm.
 
 ## 6. Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
