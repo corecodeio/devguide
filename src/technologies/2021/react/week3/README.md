@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://www.techopedia.com/definition/29569/front-end-developer" target="_blank">Front-End</a></h3>
 
 ## 1. Week goal 🏁
-<p>Use <a href="https://swapi.dev/">swapi</a> to get products to list within the application, finish the basic checkout</p>
+<p>Use <a href="https://swapi.dev/">swapi</a> or <a href="https://jsonplaceholder.typicode.com/">{JSON} Placeholder</a> to get products to list within the application, finish the basic checkout</p>
 
 ## 2. Week challenges 💻
 1. [Holiday VII - Local Talk](https://www.codewars.com/kata/57e92812750fcc051800004d)
@@ -12,5 +12,6 @@
 
 ## 3. Week links 🔗
 1. [Swapi](https://swapi.dev/)
-2. [React with axious](https://www.youtube.com/watch?v=oQnojIyTXb8)
-3. [Javascript promises](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+2. [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+3. [React with axious](https://www.youtube.com/watch?v=oQnojIyTXb8)
+4. [Javascript promises](https://www.youtube.com/watch?v=DHvZLI7Db8E)
