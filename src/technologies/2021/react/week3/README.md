@@ -9,6 +9,7 @@
 2. [isAN(value)](https://www.codewars.com/kata/534d80775371ece88d0010b5)
 3. [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 4. [Holiday VI - Shark Pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059)
+5. [Axios example](https://github.com/yosefmarr/axiosExample)
 
 ## 3. Week links 🔗
 1. [Swapi](https://swapi.dev/)
