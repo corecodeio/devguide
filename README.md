@@ -13,8 +13,9 @@
 3. [Technologies](#3-technologies)
 4. [Schedule](#4-schedule)
 5. [Recordings](#5-recordings)
-6. [Core Sessions](#6-core-sessions) 
-7. [Help](#7-help)
+6. [Core Sessions](#6-core-sessions)
+7. [Going fast?](#7-going-fast)
+8. [Help](#8-help)
 ------
 
 ## 1. Introduction
@@ -50,5 +51,8 @@ Each code session will be recorded and uploaded to YouTube, if you could not att
 ## 6. Core Sessions
 [Here](https://github.com/yosefmarr/CoreSessions) you can find the repo to define yourself using the Core sessions skills.
 
-## 7. Help
+## 7. Going fast?
+Are you going to fast?, take a look [here](src/goingfast) where you can find more resources that will challange you.
+
+## 8. Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
