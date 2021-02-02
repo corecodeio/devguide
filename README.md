@@ -13,7 +13,8 @@
 3. [Technologies](#3-technologies)
 4. [Schedule](#4-schedule)
 5. [Recordings](#5-recordings)
-6. [Help](#6-help)
+6. [Core Sessions](#6-core-sessions) 
+7. [Help](#7-help)
 ------
 
 ## 1. Introduction
@@ -46,5 +47,8 @@ You can find the actual schedule [here](src/schedule)
 ## 5. Recordings
 Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/playlist?list=PL1EiCZMRNZ8-IYmao3LGN8P_20IQxrAEW). Sessions are uploaded by 9pm.
 
-## 6. Help
+## 6. Core Sessions
+[Here](https://github.com/yosefmarr/CoreSessions) you can find the repo to define yourself using the Core sessions skills.
+
+## 7. Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
