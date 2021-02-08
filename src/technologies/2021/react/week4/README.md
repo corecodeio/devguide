@@ -11,7 +11,7 @@
 4. [Recursion #1 - Factorial](https://www.codewars.com/kata/5694cb0ec554589633000036)
 
 ## 3. Week links 🔗
-1. [SASS](https://www.youtube.com/watch?v=Zz6eOVaaelI)
-2. [Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
-3. [Flexbox froggy](https://flexboxfroggy.com/)
-4. [Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+1. [Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+2. [Flexbox froggy](https://flexboxfroggy.com/)
+3. [Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+4. [SASS](https://www.youtube.com/watch?v=Zz6eOVaaelI)
