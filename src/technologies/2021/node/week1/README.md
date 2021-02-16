@@ -12,3 +12,4 @@
 
 ## 3. Week links 🔗
 1. [Express tutorial](https://www.youtube.com/watch?v=L72fhGm1tfE)
+2. [Node server example](https://github.com/yosefmarr/httpNodeExample/tree/main)
