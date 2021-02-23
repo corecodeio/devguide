@@ -14,3 +14,4 @@
 1. [SQL vs NoSQL](https://www.youtube.com/watch?v=9G5960c2EQ4)
 2. [Firebase firestore](https://www.youtube.com/watch?v=rSgbYCdc4G0)
 3. [Firebase firestore 2](https://www.youtube.com/playlist?list=PLJm7_t7JnSjk6e5dZa3wwbZjOO6PAwRpr)
+4. [Node server example with firebase](https://github.com/yosefmarr/httpNodeExample/tree/main)
