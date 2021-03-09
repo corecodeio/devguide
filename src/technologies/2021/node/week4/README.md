@@ -12,3 +12,4 @@
 
 ## 3. Week links 🔗
 1. [Unit and Async testing with jest](https://www.youtube.com/watch?v=7r4xVDI2vho)
+2. [Unit test example React](https://github.com/yosefmarr/testExampleReact)
