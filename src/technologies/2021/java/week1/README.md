@@ -18,4 +18,4 @@
 5. [OOP Java](https://stackify.com/oops-concepts-in-java/#:~:text=OOP%20concepts%20in%20Java%20are,to%20understanding%20how%20Java%20works.)
 6. [Java API](https://docs.oracle.com/javase/8/docs/api/index.html)
 7. [Java compile proces](https://www.youtube.com/watch?v=GXUiEouK7DM&ab_channel=SimpleSnippets)
-8. [Exercises 1.1](/exercises/javaweek1.1.pdf)
+8. [Exercises 1.1](./exercises/javaweek1.1.pdf)
