@@ -4,11 +4,11 @@
 ## 1. Week goal 🏁
 <p>Java Getting Started</p>
 
-## 2. Week challenges 💻
-1. [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
-2. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
-3. [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002)
-4. [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)
+## 2. Week challenges 💻 - With Java
+1. [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) - "Using Java as main language"
+2. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131) - "Using Java as main language"
+3. [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) - "Using Java as main language"
+4. [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) - "Using Java as main language"
 
 ## 3. Week links 🔗
 1. [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
