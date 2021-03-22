@@ -14,3 +14,4 @@
 1. [SOLID](https://www.youtube.com/watch?v=rtmFCcjEgEw&ab_channel=LaraconEU)
 2. [Java API](https://docs.oracle.com/en/java/javase/15/docs/api/)
 3. [Java Annotations](http://tutorials.jenkov.com/java/annotations.html)
+4. [Exercises 2.1](./exercises/javaweek2.1.pdf)
