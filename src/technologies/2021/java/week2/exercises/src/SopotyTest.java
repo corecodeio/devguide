@@ -49,7 +49,6 @@ public class SpotyTest
                 case 5: 
                 {
                     System.out.println("Choose a song");
-                    System.out.println("Ingrese numero de cancion:");
                     System.out.println(spoty);
                     int n = lectura.nextInt();
                     spoty.playThisSong(n);
