@@ -35,12 +35,12 @@
 * Week 8 : [Node](src/technologies/2021/node/week3)
 * Week 9 : [Node](src/technologies/2021/node/week4)
 * Week 10 : [Java](src/technologies/2021/java/week1)
-* Week 12 : [Java](src/technologies/2021/java/week2)
-* Week 13 : [Java](src/technologies/2021/java/week3)
-* Week 14 : [Java](src/technologies/2021/java/week4)
-* Week 15 : [Java, React](src/technologies/2021/java/week5)
-* Week 16 : [Google Cloud](src/technologies/2021/googleCloud/week1)
-* Week 17 : [Google Cloud](src/technologies/2021/googleCloud/week2)
+* Week 11 : [Java](src/technologies/2021/java/week2)
+* Week 12 : [Java](src/technologies/2021/java/week3)
+* Week 13 : [Java](src/technologies/2021/java/week4)
+* Week 14 : [Java, React](src/technologies/2021/java/week5)
+* Week 15 : [Google Cloud](src/technologies/2021/googleCloud/week1)
+* Week 16 : [Google Cloud](src/technologies/2021/googleCloud/week2)
 
 ## 4. Schedule
 You can find the actual schedule [here](src/schedule)
