@@ -12,3 +12,8 @@
 
 ## 3. Week links 🔗
 1. [Spring Tools](https://spring.io/tools)
+2. [MySQL](https://dev.mysql.com/downloads/installer/) (Look for version 5.7)
+
+## 4. Session Code
+
+1. [Monday class](https://github.com/corecodeio/starter-spring-boot)
