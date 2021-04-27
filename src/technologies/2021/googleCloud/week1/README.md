@@ -18,3 +18,5 @@
 5. [Configuring your App with app.yaml](https://cloud.google.com/appengine/docs/flexible/nodejs/configuring-your-app-with-app-yaml)
 6. [app.yaml Configuration File](https://cloud.google.com/appengine/docs/flexible/nodejs/reference/app-yaml)
 7. [Comparing high-level features](https://cloud.google.com/appengine/docs/the-appengine-environments#comparing_environments)
+8. [Example Page](https://myshop-311923.wn.r.appspot.com/)
+9. [Repo code example](https://github.com/yosefmarr/deploying)
